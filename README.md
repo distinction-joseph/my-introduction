@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thecodingsymphony
+- 👋 Hi, I’m @distinction-joseph
 - My name is Distinction Joseph
 - 👀 I’m interested in everything data
 - 🌱 I’m currently learning data analytics with Python, Excel, R and SPSS
